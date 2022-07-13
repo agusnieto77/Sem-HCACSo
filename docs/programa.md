@@ -4,7 +4,6 @@
 
 #### HERRAMIENTAS COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD SOCIAL
 
-
 Año lectivo:	2022
 
 Régimen de cursada: 	Cuatrimestral (segundo cuatrimestre)
