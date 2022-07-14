@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+
 # ¡Bienvenidxs al seminario! <img src="img/seminario.png" align="right" height="139"/>
 
 ## Fundamentación
