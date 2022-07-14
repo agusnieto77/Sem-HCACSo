@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Sem-HCACSo
 description: Herramientas computacionales para el análisis de la conflictividad social
 logo: https://estudiosmaritimossociales.org/seminario00.png
-show_downloads: true
+show_downloads: false
