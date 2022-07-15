@@ -11,7 +11,7 @@ header {
   h1 {
     text-align: center;
     font-style: 16;
-    color: #C70039;
+    color: #B03A2E;
   }
   p {
     text-align: left;
@@ -21,8 +21,24 @@ header {
     text-align: left;
     font-style: 13;
   }
-  p {
+  a {
     font-style: 13;
-    color: #C70039;
+    color: #B03A2E;
+  }
+}
+
+
+footer {
+  p {
+    text-align: left;
+    font-style: 13;
+  }
+  p.view {
+    text-align: left;
+    font-style: 13;
+  }
+  a {
+    font-style: 13;
+    color: #B03A2E;
   }
 }
