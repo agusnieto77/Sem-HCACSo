@@ -25,6 +25,10 @@ header {
     font-size: 12;
     color: #B03A2E;
   }
+  a:hover, a:focus {
+    color: #B03A2E;
+    font-weight: bold;
+    }
 }
 
 
@@ -42,4 +46,19 @@ footer {
     font-size: 12;
     color: #B03A2E;
   }
+  a:hover, a:focus {
+  color: #B03A2E;
+  font-weight: bold;
+  }
 }
+
+section {
+  a {
+    color: #B03A2E;
+  }
+  a:hover, a:focus {
+  color: #B03A2E;
+  font-weight: bold;
+  }
+}
+
