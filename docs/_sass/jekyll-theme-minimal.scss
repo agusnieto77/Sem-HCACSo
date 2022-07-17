@@ -40,24 +40,24 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#B03A2E;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#B03A2E;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#B03A2E;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#B03A2E;
 }
 
 .wrapper {
@@ -136,6 +136,28 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+  h1 {
+    text-align: center;
+    font-size: 16;
+    color: #B03A2E;
+  }
+  p {
+    text-align: left;
+    font-size: 14;
+  }
+  p.view {
+    text-align: left;
+    font-size: 12;
+  }
+  a {
+    font-size: 12;
+    color: #B03A2E;
+  }
+  a:hover, a:focus {
+    color: #B03A2E;
+    font-weight: bold;
+    }
 
 ul.downloads {
   list-style:none;
