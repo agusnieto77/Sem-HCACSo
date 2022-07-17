@@ -225,8 +225,11 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
-  color:#727272;
 }
+
+  h1, h2, h3, h4, h5, h6 {
+    color:#727272;
+	}
 
 small {
   font-size:11px;
