@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#CD5C5C;
   margin:0 0 20px;
 }
 
@@ -123,6 +123,12 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  img {
+  max-width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 }
 
 ul.downloads {
