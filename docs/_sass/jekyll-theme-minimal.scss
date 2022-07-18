@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
@@ -121,6 +121,7 @@ kbd {
 
 header {
   width:270px;
+  margin-top: -20px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -201,6 +202,7 @@ strong {
 
 section {
   width:500px;
+  margin-top: -20px;
   float:right;
   padding-bottom:50px;
 }
@@ -213,7 +215,7 @@ hr {
   border:0;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 20px;
+  margin:5 0 5px;
 }
 
 footer {
@@ -245,7 +247,7 @@ footer {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
+    margin:0 0 10px;
   }
 
   header a small {
