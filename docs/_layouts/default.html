@@ -40,16 +40,25 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}-->
+<hr>
 <h3><a href="https://agusnieto77.github.io/Sem-HCACSo" class="btn btn-outline-secondary">Inicio</a></h3>
 <h3><a href="https://agusnieto77.github.io/Sem-HCACSo/programa" class="btn btn-outline-secondary">Programa</a></h3>
 <h3><a href="https://agusnieto77.github.io/Sem-HCACSo/codigo" class="btn btn-outline-secondary">Código</a></h3>
 <h3><a href="https://agusnieto77.github.io/Sem-HCACSo/programa" class="btn btn-outline-secondary">Recursos</a></h3>
 <h3><a href="https://agusnieto77.github.io/Sem-HCACSo/codigo" class="btn btn-outline-secondary">Bibliografía</a></h3>
+<hr>
+        <p><small>Hospedado en GitHub &mdash; Tema 'Minimal'
+        <br/>
+                {% if site.github.is_project_page %}
+        Este sitio es mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+
+        {% endif %}
+
       </header>
 
       <section>
 
-  <div class="d-grid gap-2 d-md-block">
+  <div class="block">
     <center>
     <a href="https://agusnieto77.github.io/Sem-HCACSo" class="btn btn-outline-secondary">Inicio</a> &mdash;
     <a href="https://agusnieto77.github.io/Sem-HCACSo/programa" class="btn btn-outline-secondary">Programa</a> &mdash;
@@ -65,12 +74,7 @@
 
       <footer>
 
-        <p><small>Hospedado en GitHub &mdash; Tema 'Minimal'
-        <br/>
-                {% if site.github.is_project_page %}
-        Este sitio es mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
 
-        {% endif %}
 
       </footer>
 
