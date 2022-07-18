@@ -1,4 +1,4 @@
-# Programa del Seminario<img src="img/seminario.png" align="right" height="139"/>
+# Programa del Seminario
 
 #### HERRAMIENTAS COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD SOCIAL
 
