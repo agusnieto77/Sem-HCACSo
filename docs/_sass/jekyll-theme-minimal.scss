@@ -131,9 +131,8 @@ header {
   margin-top: -20px;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-}
 
-img {
+  img {
   max-width: 65%;
   display: block;
   margin-left: auto;
@@ -170,6 +169,8 @@ img {
     color: #CD5C5C;
     font-weight: bold;
     }
+
+}
 
 ul.downloads {
   list-style:none;

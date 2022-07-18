@@ -1,7 +1,4 @@
-# Programa <img src="img/seminario.png" align="right" height="139"/>
-
-## Seminario de Posgrado
-
+# Programa del Seminario<img src="img/seminario.png" align="right" height="139"/>
 
 #### HERRAMIENTAS COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD SOCIAL
 
