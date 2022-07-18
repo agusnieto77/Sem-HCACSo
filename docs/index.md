@@ -1,3 +1,5 @@
+<br>
+<br>
 # ¡Bienvenidxs al seminario! <img src="img/seminario.png" align="right" height="139"/>
 
 ## Fundamentación
