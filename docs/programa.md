@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Programa del Seminario
 
 #### HERRAMIENTAS COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD SOCIAL
