@@ -23,7 +23,7 @@
 
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
 <hr>
-        <p>Seminario de posgrado <b>Herramientas computacionales para el análisis de la conflictividad social</b></p>
+        <p><b>Herramientas computacionales para el análisis de la conflictividad social</b></p>
 
         <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -49,25 +49,24 @@
 <hr>
         <!--<p><small>Hospedado en GitHub &mdash; Tema 'Minimal'-->
                 {% if site.github.is_project_page %}
-        <small>Este sitio es mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small><small>
+        <small>Este sitio es mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small>
         {% endif %}
 
       </header>
 
       <section>
 
-  <div class="block">
     <center>
-      <span style="margin-top: -20px">
+        <div class="block" style="margin-top: 20px;">
     <a href="https://agusnieto77.github.io/Sem-HCACSo" class="btn btn-outline-secondary">Inicio</a> &mdash;
     <a href="https://agusnieto77.github.io/Sem-HCACSo/programa" class="btn btn-outline-secondary">Programa</a> &mdash;
     <a href="https://agusnieto77.github.io/Sem-HCACSo/codigo" class="btn btn-outline-secondary">Código</a> &mdash;
     <a href="https://agusnieto77.github.io/Sem-HCACSo/programa" class="btn btn-outline-secondary">Recursos</a> &mdash;
     <a href="https://agusnieto77.github.io/Sem-HCACSo/codigo" class="btn btn-outline-secondary">Bibliografía</a>
-    </span>
     <hr>
+      </div>
     </center>
-  </div>
+
       {{ content }}
 
       </section>
