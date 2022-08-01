@@ -92,7 +92,7 @@
     ([link](https://doi.org/10.1080/13510347.2020.1714595 "Scraping the demos")).
 
 -   Wickham, Hadley (2021) *Rvest: easily harvest (scrape) web pages*
-    ([link](https://CRAN.R-project.org/package=rvest "easily harvest (scrape) web pages")).
+    ([link](https://cran.r-project.org/web/packages/rvest/rvest.pdf "easily harvest (scrape) web pages")).
 
 -   Wickham, Hadley & Cia. (2019) Welcome to the tidyverse. *Journal of
     Open Source Software*, 4(43), 1686
@@ -111,7 +111,7 @@
 -   Melo, Jairo (2017) Lectura distante, fragmentada y colaborativa en
     el archivo infinito. *Relaciones: Estudios de historia y sociedad*,
     38,149, 169-89
-    ([link](https://www.revistarelaciones.com/index.php/relaciones/article/download/251/427 "Lectura distante, fragmentada y colaborativa en el archivo infinito")).
+    ([link](https://www.scielo.org.mx/pdf/rz/v38n149/2448-7554-rz-38-149-00169.pdf "Lectura distante, fragmentada y colaborativa en el archivo infinito")).
 
 -   Moretti, Franco (2015) El matadero de la literatura. *Lectura
     distant*e, FCE, Buenos Aires
@@ -154,4 +154,4 @@
 
 -   Wickham, Hadley (2016) *ggplot2: Elegant graphics for data
     analysis*. Springer-Verlag New York
-    ([link](https://ggplot2.tidyverse.org "ggplot2")).
+    ([link](http://62.182.86.140/main/1529000/a382cc785167998611bfa4556de74270/%28Use%20R%21%29%20Hadley%20Wickham%20-%20ggplot2_%20Elegant%20Graphics%20for%20Data%20Analysis-Springer%20%282016%29.pdf "ggplot2")).
