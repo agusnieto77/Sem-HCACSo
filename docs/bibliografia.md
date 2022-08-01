@@ -81,8 +81,8 @@
     técnico, PI3CET,
     ([link](https://gesmar.estudiosmaritimossociales.org/Informe_GESMar_PI3CET_parte1.html "Activismo barrial en perspectiva histórica")).
 
--   Müller, Kirill & Wickham, Hadley (2021) Tibble: Simple data frames
-    ([link](https://CRAN.R-project.org/package=tibble "Tibble")).
+-   Müller, Kirill & Wickham, Hadley (2022) Tibble: Simple data frames
+    ([link](https://cran.r-project.org/web/packages/tibble/tibble.pdf "Tibble")).
 
 ### Complementaria
 
