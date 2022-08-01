@@ -23,7 +23,7 @@
 -   Putnam, Lara (2016) The Transnational and the Text-searchable:
     Digitized Sources and the Shadows they Cast. *American Historical
     Review*, 121, 2
-    ([link](https://watermark.silverchair.com/zah377.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsIwggK-BgkqhkiG9w0BBwagggKvMIICqwIBADCCAqQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMBWtE4zzCvyMAqKuVAgEQgIICdTSbE0SszDNdpanVuqT_c4VohbxCUzhLUhx0N0vI-Il0aejKssyhqOhSHAcLxCznqp9g_S5qlnJxQcHWo_YeVhOq380GodUiiqMQjuUoNhwOUOOimbzCKRJg4lYtcuIw_ZKaFp-Ma_-fcFn9NVd7qdbUVPlboCSeBlnwvL461mX8hCn3qEtMPEsL8nOzoMtyv6tD9CYtnM269lfi80LmIGbDRbkXoQjIZEQMAllE0rkfxmZFX2omZE8UdhNCQHx6S_uzDvLNTvYtlddUlhfr4exBQbWMVpnO6l_sXQiLT8X3rtkcVcSXSwDVuyNjLdB8zlKJLh3tFzg1LBRDCvUL6fZF2X1v3k-Kjf7J0J1oARZIwxGjk1vMS0YX5Twp-2YLTZz7utwMlcF2oCcFWd_itlxnXVWT_SKgTVHv-Fv0BjeefNKsa7Tq-8M7YY-R0mYadBb04HAd1EeMM8nrY_ojS_GeuZao9gu1J1RuC2bZO3OiMIwCvVEo_1RNdp76NWq9vd8-XIdu10BDbfDqGuivp5QpoMQ57f_1V8PU9nVje2q-m3jr-Ao2QfaifnomrOZBUqUVZXT1GKt7jfHJbb3vPdO8LGUvfw2cW2E-D-i-6eKWOxWK8uwvEELLvAm1BaO_o55Y_o2be6cnaC7mqF_GhLjzQk40Jta8_HZCz6dfKWwAhPc_n1gc85wx4KT6t5Uwu1827yTlC8YAQjGa4ASOK4QhElpcYqJzps99pC5jduuvXEQYYwjrLrZuUtO5nXoRRdsDlT8qs-U5_mSwOs5qCVo4vcIoXYl2YG6aKkVhhncc2CwuptqzcTYW0XHY8V--__uEBX6U "The Transnational and the Text-searchable")).
+    ([link](https://academic.oup.com/ahr/article/121/2/377/2581842 "The Transnational and the Text-searchable")).
 
 -   Winters, Jane y Prescott, Andrew (2019) Negotiating the
     born-digital: a problem of search. *Archives and Manuscripts*, 47, 3
