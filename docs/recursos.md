@@ -81,7 +81,7 @@ Para practicar un poco:
 -   [regex con R
     (3)](https://www.diegocalvo.es/expresiones-regulares-en-r/)
 
-## Otro recurso es el referido a las abreviaturas del etiquetado POS (Parts Of Speech)
+## Etiquetado POS (Parts Of Speech)
 
 -   [Sobre los
     ‘upos’](https://universaldependencies.org/u/pos/index.html)
