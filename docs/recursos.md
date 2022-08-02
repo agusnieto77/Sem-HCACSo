@@ -20,36 +20,64 @@ Link a RStudio Cloud
 
 ## Guías rápidas de funciones
 
+#### Introducción al lenguaje R
+
 [intro a
 R](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/intro_r.pdf)
+
+#### Introducción al IDE RStudio
 
 [intro a
 RStudio](https://www.maximaformacion.es/wp-content/uploads/2018/06/Gu%C3%ADa-R%C3%A1pida-Entorno-de-Desarrollo-R-Studio_M%C3%A1xima-Forma.pdf)
 
+#### Funciones para importar datos a R
+
 [importar
 datos](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/importar_datos.pdf)
 
+#### Introducción a la manipulación de marcos de datos como objetos
+
 [dplyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/dplyr.pdf)
 
+#### Introducción al ordenamiento de datos
+
 [tidyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/tidyr.pdf)
+
+#### Introducción a la manipulación de datos en R
 
 [dplyr &
 tidyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/domar_datos.pdf)
 
+#### Introducción a la manipulación de cadenas de caracteres en R
+
 [stringr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/strings_es.pdf)
+
+#### Introducción a la manipulación de fechas en R
 
 [lubridate](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/lubridate.pdf)
 
+#### Introducción a la visualización en R
+
 [ggplot2](https://diegokoz.github.io/intro_ds/fuentes/ggplot2-cheatsheet-2.1-Spanish.pdf)
 
+#### Introducción al lenguaje R
+
 [purrr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/purrr.pdf)
+
+#### Introducción a la estadística descriptiva en R
 
 [estadística
 descriptiva](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/estadistica_descriptiva.pdf)
 
+#### Introducción a las funciones para entrenar y trazar modelos de clasificación y regresión
+
 [caret](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/caret.pdf)
 
+#### Introducción a los reportes científicos en R
+
 [rmarkdown](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/rmarkdown_es.pdf)
+
+#### Más guías rápidas
 
 [más guías](https://www.rstudio.com/resources/cheatsheets/)
 
