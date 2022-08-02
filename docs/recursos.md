@@ -20,15 +20,13 @@ Link a RStudio Cloud
 
 ## Guías rápidas de funciones
 
-#### Introducción al lenguaje R
+[intro a
+R](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/intro_r.pdf):
+Introducción al lenguaje R
 
 [intro a
-R](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/intro_r.pdf)
-
-#### Introducción al IDE RStudio
-
-[intro a
-RStudio](https://www.maximaformacion.es/wp-content/uploads/2018/06/Gu%C3%ADa-R%C3%A1pida-Entorno-de-Desarrollo-R-Studio_M%C3%A1xima-Forma.pdf)
+RStudio](https://www.maximaformacion.es/wp-content/uploads/2018/06/Gu%C3%ADa-R%C3%A1pida-Entorno-de-Desarrollo-R-Studio_M%C3%A1xima-Forma.pdf):
+Introducción al IDE RStudio
 
 #### Funciones para importar datos a R
 
