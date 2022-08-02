@@ -21,63 +21,52 @@ Link a RStudio Cloud
 ## Guías rápidas de funciones
 
 [intro a
-R](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/intro_r.pdf):
-Introducción al lenguaje R
+R](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/intro_r.pdf) -
+Introducción al lenguaje R.
 
 [intro a
-RStudio](https://www.maximaformacion.es/wp-content/uploads/2018/06/Gu%C3%ADa-R%C3%A1pida-Entorno-de-Desarrollo-R-Studio_M%C3%A1xima-Forma.pdf):
-Introducción al IDE RStudio
-
-#### Funciones para importar datos a R
+RStudio](https://www.maximaformacion.es/wp-content/uploads/2018/06/Gu%C3%ADa-R%C3%A1pida-Entorno-de-Desarrollo-R-Studio_M%C3%A1xima-Forma.pdf) -
+Introducción al IDE RStudio.
 
 [importar
-datos](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/importar_datos.pdf)
+datos](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/importar_datos.pdf) -
+Funciones para importar datos a R.
 
-#### Introducción a la manipulación de marcos de datos como objetos
+[dplyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/dplyr.pdf) -
+Introducción a la manipulación de marcos de datos como objetos.
 
-[dplyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/dplyr.pdf)
-
-#### Introducción al ordenamiento de datos
-
-[tidyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/tidyr.pdf)
-
-#### Introducción a la manipulación de datos en R
+[tidyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/tidyr.pdf) -
+Introducción al ordenamiento de datos.
 
 [dplyr &
-tidyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/domar_datos.pdf)
+tidyr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/domar_datos.pdf) -
+Introducción a la manipulación de datos en R.
 
-#### Introducción a la manipulación de cadenas de caracteres en R
+[stringr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/strings_es.pdf) -
+Introducción a la manipulación de cadenas de caracteres en R.
 
-[stringr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/strings_es.pdf)
+[lubridate](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/lubridate.pdf) -
+Introducción a la manipulación de fechas en R.
 
-#### Introducción a la manipulación de fechas en R
+[ggplot2](https://diegokoz.github.io/intro_ds/fuentes/ggplot2-cheatsheet-2.1-Spanish.pdf) -
+Introducción a la visualización en R.
 
-[lubridate](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/lubridate.pdf)
-
-#### Introducción a la visualización en R
-
-[ggplot2](https://diegokoz.github.io/intro_ds/fuentes/ggplot2-cheatsheet-2.1-Spanish.pdf)
-
-#### Introducción al lenguaje R
-
-[purrr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/purrr.pdf)
-
-#### Introducción a la estadística descriptiva en R
+[purrr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/purrr.pdf) -
+Introducción al lenguaje R.
 
 [estadística
-descriptiva](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/estadistica_descriptiva.pdf)
+descriptiva](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/estadistica_descriptiva.pdf) -
+Introducción a la estadística descriptiva en R.
 
-#### Introducción a las funciones para entrenar y trazar modelos de clasificación y regresión
+[caret](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/caret.pdf) -
+Introducción a las funciones para entrenar y trazar modelos de
+clasificación y regresión.
 
-[caret](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/caret.pdf)
+[rmarkdown](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/rmarkdown_es.pdf) -
+Introducción a los reportes científicos en R.
 
-#### Introducción a los reportes científicos en R
-
-[rmarkdown](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/rmarkdown_es.pdf)
-
-#### Más guías rápidas
-
-[más guías](https://www.rstudio.com/resources/cheatsheets/)
+[más guías](https://www.rstudio.com/resources/cheatsheets/) - Más guías
+rápidas.
 
 ## Expresiones regulares
 
