@@ -1,4 +1,4 @@
-### Crear una base de datos en R
+### Crear un marco de datos en R
 
 Primero creamos los vectores
 
@@ -52,5 +52,5 @@ Ahora inspeccionamos qué tipo de datos contiene
     ##  $ mes         : chr  "5" "4" "3" "2" ...
     ##  $ anio        : int  1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 ...
 
-Corra el código en Google Colab desde este
-[link](https://colab.research.google.com/drive/1OJUobzElX-QJ2ty_UQDrbWHW4T4c1oe5?usp=sharing "Google Colab").
+**Corra el código en Google Colab desde este
+[link](https://colab.research.google.com/drive/1OJUobzElX-QJ2ty_UQDrbWHW4T4c1oe5?usp=sharing "Google Colab").**

@@ -52,7 +52,7 @@ Introducción a la manipulación de fechas en R.
 Introducción a la visualización en R.
 
 [purrr](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/purrr.pdf) -
-Introducción al lenguaje R.
+Introducción a las funciones de iteración en R.
 
 [estadística
 descriptiva](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/guias/estadistica_descriptiva.pdf) -
