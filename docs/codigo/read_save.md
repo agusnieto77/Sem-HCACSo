@@ -34,4 +34,4 @@ función write.csv()
 
     write.csv(df,'df.csv', row.names = F)
 
-####### Corra el código en Google Colab desde este [link](https://colab.research.google.com/drive/1rMC9cFZfo1ZPRBopsSn7Ym0ivgm7hx-X?usp=sharing "Google Colab").
+###### Corra el código en Google Colab desde este [link](https://colab.research.google.com/drive/1rMC9cFZfo1ZPRBopsSn7Ym0ivgm7hx-X?usp=sharing "Google Colab").
