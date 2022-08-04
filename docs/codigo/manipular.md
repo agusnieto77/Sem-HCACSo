@@ -29,16 +29,19 @@ Creamos una nueva columna llamada ‘id’
 
 Creamos una nueva base de datos
 
-    df_2 <- data.frame(id = 1:20, fumadore = sample(c(rep('si',10),rep('no',10)), 20))
+    df_2 <- data.frame(id = 1:20, 
+                       fumadore = sample(
+                         c(rep('si',10),rep('no',10)), 
+                         20))
     head(df_2)
 
     ##   id fumadore
-    ## 1  1       si
+    ## 1  1       no
     ## 2  2       si
-    ## 3  3       no
+    ## 3  3       si
     ## 4  4       si
-    ## 5  5       si
-    ## 6  6       no
+    ## 5  5       no
+    ## 6  6       si
 
 Ahora unimos las dos bases
 
@@ -46,11 +49,11 @@ Ahora unimos las dos bases
     head(dfu)
 
     ##   id  apellido nombre sexo edad nacionalidad dia mes anio fumadore
-    ## 1  1    García   Juan    M   21          arg   1   5 1981       si
+    ## 1  1    García   Juan    M   21          arg   1   5 1981       no
     ## 2  2 Rodríguez  Pedro    M   22          arg   2   4 1982       si
-    ## 3  3     Pérez  Juana    F   23          chi   3   3 1983       no
+    ## 3  3     Pérez  Juana    F   23          chi   3   3 1983       si
     ## 4  4    García  María    X   24          bol   4   2 1984       si
-    ## 5  5  González  Marta    F   25          arg   5   1 1985       si
-    ## 6  6    García   Juan    M   26          arg   6  11 1986       no
+    ## 5  5  González  Marta    F   25          arg   5   1 1985       no
+    ## 6  6    García   Juan    M   26          arg   6  11 1986       si
 
-###### Corra el código en Google Colab desde este [link](https://colab.research.google.com/drive/1rMC9cFZfo1ZPRBopsSn7Ym0ivgm7hx-X?usp=sharing "Google Colab").
+###### Corra el código en Google Colab desde este [link](https://colab.research.google.com/drive/1lLMUjYM-BRPi4l92To0e4yBnDYAFpr8v?usp=sharing "Google Colab").
