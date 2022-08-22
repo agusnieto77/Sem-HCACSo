@@ -106,7 +106,8 @@
     social en los barrios de Mar del Plata (2016-2020): un acercamiento
     computacional. Laitano y Nieto *La conflictividad social en la
     historia reciente: estudios sociohistóricos entre lo local y lo
-    regional*, Buenos Aires, TeseoPress ([link](#)).
+    regional*, Buenos Aires, TeseoPress
+    ([link](https://github.com/agusnieto77/Sem-HCACSo/raw/main/bibliograf%C3%ADa/La-conflictividad-social-en-la-historia-reciente_cap-3.pdf "La conflictividad social en los barrios")).
 
 -   Melo, Jairo (2017) Lectura distante, fragmentada y colaborativa en
     el archivo infinito. *Relaciones: Estudios de historia y sociedad*,
